@@ -1,5 +1,7 @@
 ---
 title: "Plastic Pollution"
+fig_width: 6 
+fig_height: 4
 author: "Zarina"
 date: "24/05/2022"
 output: html_document
